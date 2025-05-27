@@ -13,3 +13,5 @@ print("Hello NF")
 print("Hello NF")
 print("Hello NF")
 ```
+
+![Alt Text](dolo_8-10_karte.jpg)
