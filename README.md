@@ -1,12 +1,12 @@
-# Second complete makeover of my file
+# Lets remove the changes from MacBook branch
 We need to change the text in here  
 I will edit this line here
 
-## This is a HUGE change
+## This is a normal heading
 Another explanation
 
-# HUGE Headline 
+# Sub-Headline 
 Another explanation
 
-# Second HUGE Headline
-I will have a lot of other new text in this paragraph.
+Normal Text not to be confused.  
+We aded a normal text you can rely on.
