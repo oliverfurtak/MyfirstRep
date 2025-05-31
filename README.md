@@ -1,11 +1,11 @@
-# This is my Project
-I will edit also my project here <br/>
+# Lets remove the changes from MacBook branch
+We need to change the text in here  
 I will edit this line here
 
-## This is a subheading
+## This is a normal heading
 Another explanation
 
-## This is a subheading
+# Sub-Headline 
 Another explanation
 
 ## This is a subheading
@@ -19,4 +19,4 @@ print("Hello NF")
 print("Hello NF")
 print("Hello NF")
 ```
-# This a new heading that I inserted later
+
