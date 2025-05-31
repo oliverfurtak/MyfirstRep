@@ -2,20 +2,11 @@
 I will edit also my project here <br/>
 I will edit this line here
 
-## This is a subheading
+## This is a HUGE change
 Another explanation
 
-## This is a subheading
+# HUGE Headline 
 Another explanation
 
-## This is a subheading
-Another explanation
-
-## This is a subheading
-Another explanation
-
-``` three backticks initiate a code block
-print("Hello NF")
-print("Hello NF")
-print("Hello NF")
-```
+# Second HUGE Headline
+I will have a lot of other new text in this paragraph.
